@@ -5,4 +5,4 @@ contract Locker {
     function lock() external payable { locked[msg.sender] += msg.value; }
 }
 
-// build note 1
+// build note 5
