@@ -8,4 +8,4 @@ contract BaseToken is ERC20 {
     }
 }
 
-// build note 52
+// build note 56
