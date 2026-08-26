@@ -1,4 +1,4 @@
 # base-builder
 Building on Base, in the open. Contracts, scripts and experiments.
 
-// build note 35
+// build note 39
